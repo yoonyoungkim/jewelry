@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'jewelry',
+  publicPath: '/jewelry/',
 };
